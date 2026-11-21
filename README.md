@@ -1,1 +1,0 @@
-# Automated-Testing-of-Banking-REST-API
